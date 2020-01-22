@@ -1,0 +1,2 @@
+# latamhotelcorporation
+GitHub Pages
